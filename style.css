@@ -1,0 +1,30 @@
+body {
+    background-color: pink;
+
+}
+
+#container {
+    background-color: navy;
+    border: 5px solid bisque;
+    width: 750px;
+    height: 450px;
+    margin: auto;
+    text-align: center;
+}
+
+p {
+    color: whitesmoke;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+#input {
+    width: 100 px;
+    margin: 25px auto;
+    text
+}
+
+#btn {
+    margin: 25px auto auto 5 px;
+
+}
